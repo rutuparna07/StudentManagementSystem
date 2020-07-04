@@ -5,3 +5,5 @@ Simple demonstration of CRUD operation in Student Management System developed us
 - Update Data
 - Delete Data
 - Delete Table
+
+<img src=https://github.com/rutuparna07/StudentManagementSystem/blob/master/home.JPG>
